@@ -24,9 +24,15 @@ This is where @aguestuser will put problem sets and toy projects for learning So
 * [Graph Tools](https://graph-tool.skewed.de/) super-performant, well-documented, expressive library that can model property graphs (ie: where data is stored on edges)
 * [SNAP](http://snap.stanford.edu/) the gold standard for graph analysis in the sciences, also super-perofrmant and well-documented, but does *not* model property graphs
 
-### distributed graph analysis (spark)
 
-**Stub:** found a bunch of links on GraphX and plugins for it, but have to chase them down and add them later -- @aguestuser
+###  distributed graph analysis (scala)
+
+* [Apache Spark](http://spark.apache.org/documentation.html) -- distributed data analysis platform
+* [GraphX](https://spark.apache.org/graphx/) -- spark libary for graph analysis
+* [Spark Packages: Graph](https://spark-packages.org/?q=tags%3A%22Graph%22) -- graph-related plugins for Spark
+* [Breeze](https://github.com/scalanlp/breeze) scala equivalent of numpy
+* [ScalaNLP Suite](http://www.scalanlp.org/) -- includes breeze for linear algebra, epic for statistical parsing, and puck for GPU-powered parsing
+* [BigDL](https://bigdl-project.github.io/master/) -- intel-made platform for deep learning on Spark
 
 ### graph databases
 
