@@ -4,10 +4,10 @@ This is where @aguestuser will put problem sets and toy projects for learning So
 
 ## Texts
 
-### Definitely Reading:
+### Currently Reading:
 
 * [Social Network Analysis](https://www.amazon.com/Social-Network-Analysis-John-Scott/dp/1473952123/) by John Scott -- solid intro w/ history of field, treatment of major algorithms, written from perspective of a sociologist mapping corporate power trying to learn the math
-
+* [O'Reilly Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) by Jake VanderPlas -- comprehensive overview of python for data science: including numpy, pandas, machine learning, linear algebra, etc.. Bonus: there's a version of the book published completely in IPython notebooks!
 
 ### Might read
 
